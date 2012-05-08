@@ -1,5 +1,5 @@
-Licencia Simplicer Opensource (SOL)
-===================================
+Licencia Simplicer Opensource (SOLv1.0)
+=======================================
 
 La licencia Simplicer Opensource es texto legal para adjuntar
 a nuestros desarrollos, sean de software o no, y es compatible
@@ -7,6 +7,10 @@ con licencias como MIT o GPL.
 Está disponible completamente en castellano.
 A continuación la licencia de la la licencia :) y después una
 plantilla de la licencia para que pueda ser usada libremente.
+
+----
+LICENCIA
+----
 
 LICENCIA SIMPLICER OPENSOURCE
 SOLv1.0 (SIMPLICER OPENSOURCE LICENSE VERSION 1.0)
@@ -37,6 +41,8 @@ RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES,
 DERIVADAS, OCASIONADAS, POR CULPA O EN RELACIÓN CON LA OBRA, SU USO O
 DE CUALQUIER OTRO TIPO DE ACCIONES RELACIONADAS ÉSTA.
 
+----
+PLANTILLA DE LICENCIA
 ----
 
 LICENCIA SIMPLICER OPENSOURCE
