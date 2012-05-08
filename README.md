@@ -17,15 +17,20 @@ LICENCIA SIMPLICER OPENSOURCE
 SOLv1.0 (SIMPLICER OPENSOURCE LICENSE VERSION 1.0)
 
 Licencia Simplicer Opensource,
+
 Copyright 2012,
-Simplicer.com : http://www.simplicer.com,
+
+Simplicer.com : http://www.simplicer.com
+
 Antonio Villamarín : http://www.antoniovillamarin.com
+
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
+
 
 i. La obra derivada debe licenciarse bajo esta misma licencia u otra
 licencia compatible y explícitamente incluir, proporcionar o
@@ -35,6 +40,7 @@ los autores de la obra original.
 ii. El autor de la obra derivada puede relicenciar la misma a otra
 licencia no compatible con la presente, con la autorización expresa
 del autor de la obra original.
+
 
 DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
 GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
@@ -53,14 +59,15 @@ LICENCIA SIMPLICER OPENSOURCE
 SOLv1.0 (SIMPLICER OPENSOURCE LICENSE VERSION 1.0)
 
 \<Nombre de la obra\> \[ : derivada de \<Obra original\>\],
-
 Copyright \<año\>, \<Autor\> \[ : \<web o email\>\] \{, \<Autor\> \[ : \<web o email\>\]\}
+
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
+
 
 i. La obra derivada debe licenciarse bajo esta misma licencia u otra
 licencia compatible y explícitamente incluir, proporcionar o
@@ -70,6 +77,7 @@ los autores de la obra original.
 ii. El autor de la obra derivada puede relicenciar la misma a otra
 licencia no compatible con la presente, con la autorización expresa
 del autor de la obra original.
+
 
 DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
 GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
