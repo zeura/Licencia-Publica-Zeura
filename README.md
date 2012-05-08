@@ -48,8 +48,8 @@ PLANTILLA DE LICENCIA
 LICENCIA SIMPLICER OPENSOURCE
 SOLv1.0 (SIMPLICER OPENSOURCE LICENSE VERSION 1.0)
 
-<Nombre de la obra> [, derivada de <Obra original>]
-Copyright <año>, <Autor> [(<web o email>)] {, <Autor> [(<web o email>)]}
+\<Nombre de la obra\> \[, derivada de \<Obra original\>\]
+Copyright \<año\>, \<Autor\> \[\(\<web o email\>\)\] \{, \<Autor\> \[\(\<web o email\>\)\]\}
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
