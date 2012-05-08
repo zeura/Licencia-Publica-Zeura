@@ -12,16 +12,11 @@ plantilla de la licencia para que pueda ser usada libremente.
 LICENCIA
 ----
 
-LICENCIA SIMPLICER OPENSOURCE
-
-SOLv1.0 (SIMPLICER OPENSOURCE LICENSE VERSION 1.0)
+LICENCIA SIMPLICER OPENSOURCE SOLv1.0
 
 Licencia Simplicer Opensource,
-
 Copyright 2012,
-
-Simplicer.com : http://www.simplicer.com
-
+Simplicer.com : http://www.simplicer.com,
 Antonio Villamarín : http://www.antoniovillamarin.com
 
 
