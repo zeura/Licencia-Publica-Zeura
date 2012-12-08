@@ -13,13 +13,7 @@ LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-*Name: Licencia Pública Zeura*
-
-*Version: 1.0*
-
-*Copyright: 2012*
-
-*Autor: Antonio Villamarín, http://ant.onio.org*
+Licencia Pública Zeura | Version: 1.0 | Copyright: 2012 | Autor: Antonio Villamarín, http://ant.onio.org
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
@@ -27,42 +21,45 @@ documento, imagen o cualquier otra obra o archivos asociados a: usar, copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
 
-1. *La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o 	enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.*
-2. *El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.*
-3. ***Descarga de responsabilidad: Esta obra se entrega "tal cual"
+1. La obra derivada debe licenciarse bajo esta misma licencia u
+otra licencia compatible y explícitamente incluir, proporcionar o
+enlazar el texto de la licencia correspondiente, así como incluir
+a los autores de la obra original.
+2. El autor de la obra derivada puede relicenciar la misma a otra
+licencia no compatible con la presente, con la autorización expresa
+del autor de la obra original.
+3. **Descarga de responsabilidad: Esta obra se entrega "tal cual"
 sin garantía de ningún tipo, expresa o implícita, incluyendo, sin
 limitación, las garantías de comercialización e idoneidad para un
 determinado proposito. En ningún caso, los autores de la obra serán
 responsables de ninguna reclamación, daños u otras responsabilidades,
 derivadas, ocasionadas, por culpa o en relación con la obra, su uso
-o de cualquier otro tipo de acciones relacionadas con ésta.***
+o de cualquier otro tipo de acciones relacionadas con ésta.**
 
 ~~~
 PLANTILLA DE LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-*Name: \<Nombre de la obra\> \[ \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}*
-
-*Version: \<version\>*
-
-*Copyright: \<año\>*
-
-*\{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}*
+\<Nombre de la obra\> \[ \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\} | Version: \<version\> | Copyright: \<año\> | \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
-documento, imagen o cualquier otra obra o archivos asociados a: copiar,
+documento, imagen o cualquier otra obra o archivos asociados a: usar, copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
 
-1. *La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.*
-2. *El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.*
-
-DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
-GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
-LIMITACIÓN, LAS GARANTÍAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UN
-DETERMINADO PROPÓSITO. EN NINGÚN CASO, LOS AUTORES DE LA OBRA SERÁN
-RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES,
-DERIVADAS, OCASIONADAS, POR CULPA O EN RELACIÓN CON LA OBRA, SU USO O
-DE CUALQUIER OTRO TIPO DE ACCIONES RELACIONADAS ÉSTA.
+1. La obra derivada debe licenciarse bajo esta misma licencia u
+otra licencia compatible y explícitamente incluir, proporcionar o
+enlazar el texto de la licencia correspondiente, así como incluir
+a los autores de la obra original.
+2. El autor de la obra derivada puede relicenciar la misma a otra
+licencia no compatible con la presente, con la autorización expresa
+del autor de la obra original.
+3. **Descarga de responsabilidad: Esta obra se entrega "tal cual"
+sin garantía de ningún tipo, expresa o implícita, incluyendo, sin
+limitación, las garantías de comercialización e idoneidad para un
+determinado proposito. En ningún caso, los autores de la obra serán
+responsables de ninguna reclamación, daños u otras responsabilidades,
+derivadas, ocasionadas, por culpa o en relación con la obra, su uso
+o de cualquier otro tipo de acciones relacionadas con ésta.**
