@@ -13,10 +13,13 @@ LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-- Licencia Pública Zeura
-- Version: 1.0
-- Copyright: 2012
-- Autor: Antonio Villamarín, http://ant.onio.org
+Licencia Pública Zeura
+
+Version: 1.0
+
+Copyright: 2012
+
+Autor: Antonio Villamarín, http://ant.onio.org
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
@@ -40,10 +43,13 @@ PLANTILLA DE LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-* \<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
-* Version: \<version\>
-* Copyright: \<año\>
-* \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
+\<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
+
+Version: \<version\>
+
+Copyright: \<año\>
+
+\{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
