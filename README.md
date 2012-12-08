@@ -13,8 +13,11 @@ LICENCIA
 ----
 
 Zeura Opensource License ZOLv1.0
+
 Zeura Opensource License: derivada de MIT License
+
 Copyright: 2012
+
 Autor: Antonio Villamarín, http://ant.onio.org
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
@@ -45,8 +48,11 @@ PLANTILLA DE LICENCIA
 ----
 
 Zeura opensource License ZOLv1.0
+
 \<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
+
 \[Copyright: \<año\>\]
+
 \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
