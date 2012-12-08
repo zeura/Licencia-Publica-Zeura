@@ -13,7 +13,7 @@ LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-**Licencia Pública Zeura**
+**Name: Licencia Pública Zeura**
 
 **Version: 1.0**
 
@@ -43,7 +43,7 @@ PLANTILLA DE LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-**\<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}**
+**Name: \<Nombre de la obra\> \[ \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}**
 
 **Version: \<version\>**
 
