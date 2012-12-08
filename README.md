@@ -29,14 +29,13 @@ vender copias siempre que cumpla las siguientes condiciones:
 
 1. *La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o 	enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.*
 2. *El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.*
-
-DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
-GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
-LIMITACIÓN, LAS GARANTÍAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UN
-DETERMINADO PROPÓSITO. EN NINGÚN CASO, LOS AUTORES DE LA OBRA SERÁN
-RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES,
-DERIVADAS, OCASIONADAS, POR CULPA O EN RELACIÓN CON LA OBRA, SU USO O
-DE CUALQUIER OTRO TIPO DE ACCIONES RELACIONADAS ÉSTA.
+3. ***Descarga de responsabilidad**: Esta obra se entrega "tal cual"
+sin garantía de ningún tipo, expresa o implícita, incluyendo, sin
+limitación, las garantías de comercialización e idoneidad para un
+determinado proposito. En ningún caso, los autores de la obra serán
+responsables de ninguna reclamación, daños u otras responsabilidades,
+derivadas, ocasionadas, por culpa o en relación con la obra, su uso
+o de cualquier otro tipo de acciones relacionadas con ésta.***
 
 ~~~
 PLANTILLA DE LICENCIA
