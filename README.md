@@ -13,13 +13,13 @@ LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-Licencia Pública Zeura
+*Licencia Pública Zeura*
 
-Version: 1.0
+**Version: 1.0**
 
-Copyright: 2012
+**Copyright: 2012**
 
-Autor: Antonio Villamarín, http://ant.onio.org
+**Autor: Antonio Villamarín, http://ant.onio.org**
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
@@ -43,13 +43,13 @@ PLANTILLA DE LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-\<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
+**\<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}**
 
-Version: \<version\>
+**Version: \<version\>**
 
-Copyright: \<año\>
+**Copyright: \<año\>**
 
-\{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
+**\{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}**
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
@@ -57,8 +57,8 @@ documento, imagen o cualquier otra obra o archivos asociados a: copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
 
-1. La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.
-2. El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.
+1. *La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.*
+2. *El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.*
 
 DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
 GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
