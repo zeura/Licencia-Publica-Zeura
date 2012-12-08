@@ -5,7 +5,7 @@ La licencia Zeura Pública es texto legal para adjuntar
 a nuestros desarrollos, sean de software o no, y es compatible
 con licencias como MIT o GPL.
 Está disponible completamente en castellano.
-A continuación la licencia de la la licencia :) y después una
+A continuación la licencia de la la licencia :) a modo de ejemplo y después una
 plantilla de la licencia para que pueda ser usada libremente.
 
 ~~~
