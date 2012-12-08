@@ -12,13 +12,10 @@ plantilla de la licencia para que pueda ser usada libremente.
 LICENCIA
 ----
 
-Zeura Opensource License ZOLv1.0
-
-Zeura Opensource License: derivada de MIT License
-
-Copyright: 2012
-
-Autor: Antonio Villamarín, http://ant.onio.org
+* Zeura Opensource License ZOLv1.0
+* Zeura Opensource License: derivada de MIT License
+* Copyright: 2012
+* Autor: Antonio Villamarín, http://ant.onio.org
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
@@ -47,13 +44,10 @@ DE CUALQUIER OTRO TIPO DE ACCIONES RELACIONADAS ÉSTA.
 PLANTILLA DE LICENCIA
 ----
 
-Zeura opensource License ZOLv1.0
-
-\<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
-
-\[Copyright: \<año\>\]
-
-\{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
+* Zeura opensource License ZOLv1.0
+* \<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
+* \[Copyright: \<año\>\]
+* \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
