@@ -23,8 +23,8 @@ documento, imagen o cualquier otra obra o archivos asociados a: copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
 
-i. La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o 	enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.
-ii. El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.
+1. La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o 	enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.
+2. El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.
 
 DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
 GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
@@ -49,8 +49,8 @@ documento, imagen o cualquier otra obra o archivos asociados a: copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
 vender copias siempre que cumpla las siguientes condiciones:
 
-i. La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.
-ii. El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.
+1. La obra derivada debe licenciarse bajo esta misma licencia u otra licencia compatible y explícitamente incluir, proporcionar o enlazar el texto de la licencia correspondiente, así como incluir a los autores de la obra original.
+2. El autor de la obra derivada puede relicenciar la misma a otra licencia no compatible con la presente, con la autorización expresa del autor de la obra original.
 
 DESCARGA DE RESPONSABILIDAD: ESTA OBRA SE ENTREGA "TAL CUAL" SIN
 GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, SIN
