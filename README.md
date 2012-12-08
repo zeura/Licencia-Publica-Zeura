@@ -41,7 +41,12 @@ PLANTILLA DE LICENCIA
 ~~~
 
 ###Licencia Pública Zeura | LPZ/ZPL###
-\<Nombre de la obra\> \[ \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\} | Version: \<version\> | Copyright: \<año\> | \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
+\<Nombre de la obra\> \[ \(derivada de|derivated from) \<Nombre de la obra original\>\]\
+{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\} |
+Version: \<version\> |
+Copyright: \<año\> |
+Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]
+{\ | Autor: \<OtroAutor\> \[, \<web\>\]\[, \<email\>\] \}
 
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
