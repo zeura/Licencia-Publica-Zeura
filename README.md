@@ -17,7 +17,7 @@ LICENCIA
 - Copyright: 2012
 - Autor: Antonio Villamarín, http://ant.onio.org
 
-#Licencia Pública Zeura#
+###Licencia Pública Zeura###
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: copiar,
@@ -44,7 +44,7 @@ PLANTILLA DE LICENCIA
 * Copyright: \<año\>
 * \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
 
-#Licencia Pública Zeura#
+###Licencia Pública Zeura###
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: copiar,
