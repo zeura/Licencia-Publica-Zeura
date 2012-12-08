@@ -19,7 +19,7 @@ Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: usar, copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
-vender copias siempre que cumpla las siguientes condiciones:
+vender copias siempre que cumpla y acepte las siguientes condiciones:
 
 1. La obra derivada debe licenciarse bajo esta misma licencia u
 otra licencia compatible y explícitamente incluir, proporcionar o
@@ -52,7 +52,7 @@ Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: usar, copiar,
 distribuir, modificar, ampliar, fusionar, sublicenciar, publicar y/o
-vender copias siempre que cumpla las siguientes condiciones:
+vender copias siempre que cumpla y acepte las siguientes condiciones:
 
 1. La obra derivada debe licenciarse bajo esta misma licencia u
 otra licencia compatible y explícitamente incluir, proporcionar o
