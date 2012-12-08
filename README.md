@@ -1,7 +1,7 @@
-Licencia Zeura Opensource (ZOLv1.0)
+Licencia Publica Zeura (ZPLv1.0)
 =======================================
 
-La licencia Zeura Opensource es texto legal para adjuntar
+La licencia Zeura Pública es texto legal para adjuntar
 a nuestros desarrollos, sean de software o no, y es compatible
 con licencias como MIT o GPL.
 Está disponible completamente en castellano.
@@ -12,11 +12,12 @@ plantilla de la licencia para que pueda ser usada libremente.
 LICENCIA
 ----
 
-- Zeura Opensource License ZOLv1.0
-- Zeura Opensource License: derivada de MIT License
+- Licencia Pública Zeura
+- Version: 1.0
 - Copyright: 2012
 - Autor: Antonio Villamarín, http://ant.onio.org
 
+#Licencia Pública Zeura#
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: copiar,
@@ -38,11 +39,12 @@ DE CUALQUIER OTRO TIPO DE ACCIONES RELACIONADAS ÉSTA.
 PLANTILLA DE LICENCIA
 ----
 
-* Zeura opensource License ZOLv1.0
 * \<Nombre de la obra\> \[: \(derivada de|derivated from) \<Nombre de la obra original\>\]\{\[, \(derivada de|derivated from) \<Nombre de la obra original\>\]\}
-* \[Copyright: \<año\>\]
+* Version: \<version\>
+* Copyright: \<año\>
 * \{Autor: \<Autor\> \[, \<web\>\]\[, \<email\>\]\}
 
+#Licencia Pública Zeura#
 Por la presente, se autoriza, de manera gratuita, a cualquier persona,
 entidad u organización, que haya obtenido una copia de este software,
 documento, imagen o cualquier otra obra o archivos asociados a: copiar,
